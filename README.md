@@ -1,19 +1,19 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 
-<h1 align="center">Hi 👋, I'm SURYA ABYSS</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Surya Prakash Subudhiray</h1>
+<h3 align="center">A passionate developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611b3663675205363f1c943728685fbfc21f9a83934&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SuryaAbyss&label=Profile%20views&color=0e75b6&style=flat" alt="SuryaAbyss" /> </p>
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://SuryaAbyss.github.io/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://suryaabyss.github.io/)
 
 - 📫 How to reach me **suryaprakash907y@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/suryaprakash18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surya-abyss" height="30" width="40" /></a>
-<a href="https://www.instagram.com/whois_.surya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="surya-abyss" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/suryaprakash18/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surya-abyss" height="30" width="40" /></a>
+<a href="https://www.instagram.com/whois_.surya/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="surya-abyss" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
