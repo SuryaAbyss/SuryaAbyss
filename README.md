@@ -6,7 +6,7 @@
 I'm currently working on: A Machine Learning project involving EEG data for stress detection.<br>I'm looking to collaborate on: Open-source projects, especially in AI and Cybersecurity.<br>I'm looking for help with: Advanced EEG signal processing techniques.<br>I'm currently learning: Deep learning techniques for biological data.<br>Ask me about: Java, Python, AI, Web Development, and Cybersecurity.<br>Fun fact: I recently mentored contributors in GirlScript Summer of Code 2024!
 
 
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQpDzsUUzMCsuyMx80qge5Ft6v_as5gZBpyQ&usqp=CAU">
+<img align="right" alt="Coding" width="100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQpDzsUUzMCsuyMx80qge5Ft6v_as5gZBpyQ&usqp=CAU">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SuryaAbyss&label=Profile%20views&color=0e75b6&style=flat" alt="SuryaAbyss" /> </p>
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://suryaabyss.github.io/)
