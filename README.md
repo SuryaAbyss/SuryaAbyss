@@ -1,7 +1,10 @@
 ![MasterHead]()
 
 <h1 align="center">Hi 👋, I'm Surya Prakash Subudhiray</h1>
-<h3 align="center">A passionate developer from India</h3>
+
+# 💫 About Me:
+I'm currently working on: A Machine Learning project involving EEG data for stress detection.<br>I'm looking to collaborate on: Open-source projects, especially in AI and Cybersecurity.<br>I'm looking for help with: Advanced EEG signal processing techniques.<br>I'm currently learning: Deep learning techniques for biological data.<br>Ask me about: Java, Python, AI, Web Development, and Cybersecurity.<br>Fun fact: I recently mentored contributors in GirlScript Summer of Code 2024!
+
 
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQpDzsUUzMCsuyMx80qge5Ft6v_as5gZBpyQ&usqp=CAU">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SuryaAbyss&label=Profile%20views&color=0e75b6&style=flat" alt="SuryaAbyss" /> </p>
@@ -10,10 +13,9 @@
 
 - 📫 How to reach me **suryaprakash907y@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/suryaprakash18/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surya-abyss" height="30" width="40" /></a>
-<a href="https://www.instagram.com/whois_.surya/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="surya-abyss" height="30" width="40" /></a>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/whois_.surya/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/suryaprakash18/) 
+
 </p>
 
 # 💻 Tech Stack:
