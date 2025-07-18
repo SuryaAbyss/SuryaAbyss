@@ -4,7 +4,7 @@
 </p>
 
 <!-- Introduction -->
-<h1 align="center">Hi 👋, I'm Surya Prakash Subudhiray</h1>
+<h1 align="center">Hi 👋, I'm Surya </h1>
 <p align="center">A passionate Computer Science Engineer who loves to build intelligent and secure systems 🚀</p>
 
 <p align="center">
