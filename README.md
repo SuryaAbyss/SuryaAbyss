@@ -46,13 +46,11 @@
 
 ---
 
-<!-- GitHub Stats -->
-### 📊 GitHub Stats
+### 🎯 Dev Toolbox
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SuryaAbyss&show_icons=true&theme=transparent&hide_border=true" alt="Surya's GitHub stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuryaAbyss&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=0e75b6&center=true&vCenter=true&width=435&lines=Java+%7C+Python+%7C+React+%7C+ML+%7C+Security+%7C+Web+Dev+%7C+AI+%7C+Design" />
 </p>
+
 
 <!-- Profile Views -->
 <p align="center">
