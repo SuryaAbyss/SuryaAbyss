@@ -49,34 +49,34 @@
           }
         </style>
         
-        <!-- Tree Trunk -->
-        <rect x="90" y="100" width="20" height="100" class="tree-trunk" fill="#8B4513" />
-        
-        <!-- Tree Branches -->
-        <line x1="100" y1="120" x2="50" y2="80" stroke="#8B4513" stroke-width="8" class="tree-branch" />
-        <line x1="100" y1="120" x2="150" y2="80" stroke="#8B4513" stroke-width="8" class="tree-branch" />
-        <line x1="100" y1="100" x2="70" y2="60" stroke="#8B4513" stroke-width="6" class="tree-branch" />
-        <line x1="100" y1="100" x2="130" y2="60" stroke="#8B4513" stroke-width="6" class="tree-branch" />
-        
-        <!-- Tree Leaves -->
-        <circle cx="50" cy="80" r="25" class="tree-leaves" fill="#2E8B57" />
-        <circle cx="150" cy="80" r="25" class="tree-leaves" fill="#2E8B57" />
-        <circle cx="70" cy="60" r="20" class="tree-leaves" fill="#3CB371" />
-        <circle cx="130" cy="60" r="20" class="tree-leaves" fill="#3CB371" />
-        <circle cx="100" cy="50" r="30" class="tree-leaves" fill="#2E8B57" />
-      </svg>
-    </div>
-    
-    <!-- Journey Text -->
-    <div style="max-width: 400px; text-align: left;">
-      <p>🌱 Started with <strong>Java</strong> and <strong>Python</strong></p>
-      <p>🚀 Explored <strong>Web Development</strong> and <strong>Cloud</strong></p>
-      <p>🧠 Dived into <strong>Machine Learning</strong> and <strong>AI</strong></p>
-      <p>🔒 Focused on <strong>Cybersecurity</strong></p>
-      <p>🧠 Currently researching <strong>EEG Signal Processing</strong></p>
-    </div>
-  </div>
+<!-- Tree SVG -->
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Tree Trunk -->
+  <rect x="90" y="100" width="20" height="100" class="tree-trunk" fill="#8B4513" />
+  
+  <!-- Tree Branches -->
+  <line x1="100" y1="120" x2="50" y2="80" stroke="#8B4513" stroke-width="8" class="tree-branch" />
+  <line x1="100" y1="120" x2="150" y2="80" stroke="#8B4513" stroke-width="8" class="tree-branch" />
+  <line x1="100" y1="100" x2="70" y2="60" stroke="#8B4513" stroke-width="6" class="tree-branch" />
+  <line x1="100" y1="100" x2="130" y2="60" stroke="#8B4513" stroke-width="6" class="tree-branch" />
+  
+  <!-- Tree Leaves -->
+  <circle cx="50" cy="80" r="25" class="tree-leaves" fill="#2E8B57" />
+  <circle cx="150" cy="80" r="25" class="tree-leaves" fill="#2E8B57" />
+  <circle cx="70" cy="60" r="20" class="tree-leaves" fill="#3CB371" />
+  <circle cx="130" cy="60" r="20" class="tree-leaves" fill="#3CB371" />
+  <circle cx="100" cy="50" r="30" class="tree-leaves" fill="#2E8B57" />
+</svg>
+
+<!-- Journey Text -->
+<div style="max-width: 400px; text-align: left;">
+  <p>🌱 Started with <strong>Java</strong> and <strong>Python</strong></p>
+  <p>🚀 Explored <strong>Web Development</strong> and <strong>Cloud</strong></p>
+  <p>🧠 Dived into <strong>Machine Learning</strong> and <strong>AI</strong></p>
+  <p>🔒 Focused on <strong>Cybersecurity</strong></p>
+  <p>🧠 Currently researching <strong>EEG Signal Processing</strong></p>
 </div>
+
 
 <!-- About Me Section with Icons -->
 <div align="center">
@@ -147,6 +147,15 @@
   <img src="https://skillicons.dev/icons?i=tensorflow,keras,pytorch,opencv,pandas,numpy,scikit-learn" />
 </div>
 
+<!-- Include this in your <head> or above your section -->
+<style>
+@keyframes fill-bar {
+  to {
+    width: 100%;
+  }
+}
+</style>
+
 <!-- Animated Skills Section -->
 <div align="center">
   <h2>🎯 My Expertise</h2>
@@ -192,14 +201,15 @@
       <p>EEG Signal Processing</p>
     </div>
   </div>
-  
-  <style>
-    @keyframes fill-bar {
-      from { width: 0%; }
-      to { width: 90%; }
-    }
-  </style>
 </div>
+
+<style>
+  @keyframes fill-bar {
+    from { width: 0%; }
+    to { width: 90%; }
+  }
+</style>
+
 
 <!-- GitHub Activity Graph -->
 <div align="center">
