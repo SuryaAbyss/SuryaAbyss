@@ -4,7 +4,7 @@
 </p>
 
 <!-- Introduction -->
-<h1 align="center">Hi 👋, I'm Surya </h1>
+<h1 align="center">Hi 👋, I'm Surya Prakash Subudhiray</h1>
 <p align="center">A passionate Computer Science Engineer who loves to build intelligent and secure systems 🚀</p>
 
 <p align="center">
@@ -51,6 +51,27 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=0e75b6&center=true&vCenter=true&width=435&lines=Java+%7C+Python+%7C+React+%7C+ML+%7C+Security+%7C+Web+Dev+%7C+AI+%7C+Design" />
 </p>
 
+---
+
+<!-- GitHub Stats -->
+<h3 align="center">📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SuryaAbyss&show_icons=true&theme=radical&count_private=true" />
+</p>
+
+<!-- GitHub Streak -->
+<h3 align="center">🔥 GitHub Streak</h3>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuryaAbyss&theme=dark&date_format=j%20M%5B%20Y%5D" />
+</p>
+
+<!-- GitHub Contributions -->
+<h3 align="center">🎨 GitHub Contributions</h3>
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=SuryaAbyss&theme=react-dark" />
+</p>
+
+---
 
 <!-- Profile Views -->
 <p align="center">
@@ -59,5 +80,5 @@
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer" />
 </p>
