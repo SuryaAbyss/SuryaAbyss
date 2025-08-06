@@ -1,169 +1,123 @@
-<!-- Header Banner with Animation -->
+<!-- Dynamic Animated Header -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Surya%20Prakash%20Subudhiray&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Surya%20Prakash%20Subudhiray&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Surya%20Prakash%20Subudhiray&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header Banner">
-  </picture>
-</div>
-
-<!-- Animated Typing Introduction -->
-<div align="center">
-  <h1>Hi 👋, I'm Surya</h1>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&lines=A+passionate+Computer+Science+Engineer;Building+intelligent+and+secure+systems+%F0%9F%9A%80;Deep+Learning+Enthusiast;Cybersecurity+Researcher" alt="Typing SVG" /></a>
-</div>
-
-<!-- Contact Links with Icons -->
-<div align="center">
-  <a href="https://suryaabyss.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:suryaprakash907y@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0e75b6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
-
-<!-- GitHub Stats Cards -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SuryaAbyss&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=SuryaAbyss&show_icons=true&theme=default&include_all_commits=true&count_private=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=SuryaAbyss&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="GitHub Stats">
-  </picture>
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=SuryaAbyss&theme=dark&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=SuryaAbyss&theme=light&hide_border=true">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuryaAbyss&theme=light&hide_border=true" alt="GitHub Streak">
-  </picture>
-</div>
-
-<!-- About Me Section with Icons -->
-<div align="center">
-  <h2>🚀 About Me</h2>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&height=80&lines=Hello+World!+👋;I'm+Surya+Prakash+Subudhiray;AI+Engineer+%7C+Security+Enthusiast;Building+Intelligent+Systems" alt="Typing animation" />
   
-  <table align="center">
-    <tr>
-      <td width="50%" valign="top">
-        <ul>
-          <li>🌱 Currently learning <strong>Deep Learning for EEG Data</strong></li>
-          <li>💡 Working on <strong>Stress Detection using EEG and ML</strong></li>
-          <li>🤝 Open to collaborate on <strong>AI, Cybersecurity & Open Source</strong></li>
-        </ul>
-      </td>
-      <td width="50%" valign="top">
-        <ul>
-          <li>🧠 Looking for help with <strong>Advanced EEG Signal Processing</strong></li>
-          <li>😄 Fun fact: I mentored contributors in <strong>GirlScript Summer of Code 2024</strong></li>
-          <li>💬 Ask me about <strong>Machine Learning, Web Development & Security</strong></li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- Coding GIF with Border Animation -->
-<div align="center">
-  <a href="https://github.com/SuryaAbyss">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" height="220" alt="coding" style="border-radius: 10px; border: 2px solid #0e75b6; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:4b0082&height=180&section=header&fontSize=40&fontColor=ffffff&animation=twinkling" />
 </div>
 
 <!-- Social Links with Hover Effects -->
-<div align="center">
-  <h2>🌐 Connect with me</h2>
-  
-  <a href="https://www.instagram.com/whois_.surya/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+<p align="center">
+  <a href="https://suryaabyss.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/suryaprakash18/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/SuryaAbyss" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+  <a href="mailto:suryaprakash907y@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://twitter.com/SuryaAbyss" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+  <a href="https://www.instagram.com/whois_.surya/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+</p>
+
+<!-- GitHub Stats Cards -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SuryaAbyss&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SuryaAbyss&theme=algolia&hide_border=true&background=00000000" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuryaAbyss&layout=compact&theme=algolia&hide_border=true&bg_color=00000000" alt="Top Languages" />
 </div>
 
-<!-- Tech Stack with Categories -->
-<div align="center">
-  <h2>💻 Tech Stack</h2>
-  
-  <h3>Languages</h3>
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,ts" />
-  
-  <h3>Frontend & UI/UX</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,figma" />
-  
-  <h3>Backend & Database</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mysql,mongodb,firebase" />
-  
-  <h3>Cloud & DevOps</h3>
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,git,github" />
-  
-  <h3>Machine Learning & AI</h3>
-  <img src="https://skillicons.dev/icons?i=tensorflow,keras,pytorch,opencv,pandas,numpy,scikit-learn" />
-</div>
+<!-- Animated Divider -->
+<img src="https://raw.githubusercontent.com/SuryaAbyss/SuryaAbyss/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+<!-- About Me Section -->
+## 🚀 About Me
+
+class SuryaPrakash:
+    def __init__(self):
+        self.current_focus = "Deep Learning for EEG Data"
+        self.current_project = "Stress Detection using EEG and ML"
+        self.interests = [
+            "Artificial Intelligence",
+            "Cybersecurity",
+            "Cloud Computing",
+            "Open Source"
+        ]
+        self.fun_fact = "Mentored contributors in GirlScript Summer of Code 2024"
+        self.collaboration = "Open to collaborate on AI and Security projects"
+
+<!-- Tech Stack with Progress Bars -->
+## 🛠️ Tech Stack
+
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+### Web Development
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### AI/ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+<!-- Projects Section -->
+## 🔥 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">EEG Stress Detection</h3>
+      <div align="center">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJjY3J0dWJ2Y3F0d3F3bXJqY2h3d2R2eXh1a3V1dG5xZ3J2bGt1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qE1YN7aBOFPRw8E/giphy.gif" width="300"/>
+        <p>Machine learning model for stress detection using EEG signals</p>
+        <a href="#"><img src="https://img.shields.io/badge/View_Project-0E75B6?style=for-the-badge" /></a>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Secure Auth System</h3>
+      <div align="center">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJxZGJ3d3Z1bGQ0a2RqZ3V5dWJqZ3V5dWJqZ3V5dWJqZ3V5dWJqZ3V5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
+        <p>Multi-factor authentication system with behavioral biometrics</p>
+        <a href="#"><img src="https://img.shields.io/badge/View_Project-0E75B6?style=for-the-badge" /></a>
+      </div>
+    </td>
+  </tr>
+</table>
 
 <!-- GitHub Activity Graph -->
+## 📈 GitHub Activity
+[![Surya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SuryaAbyss&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!-- Dynamic Quote -->
 <div align="center">
-  <h2>📊 GitHub Activity Graph</h2>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=SuryaAbyss&theme=github-dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=SuryaAbyss&theme=github-light">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SuryaAbyss&theme=github-light" alt="GitHub Activity Graph">
-  </picture>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Building+the+future+with+code+and+creativity;Turning+ideas+into+impactful+digital+solutions;Passionate+about+AI%2C+Security%2C+and+Open+Source" alt="Dynamic quotes" />
 </div>
 
-<!-- Top Languages Card -->
+<!-- Footer -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SuryaAbyss&layout=compact&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SuryaAbyss&layout=compact&theme=light">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuryaAbyss&layout=compact&theme=light" alt="Top Languages">
-  </picture>
-</div>
-
-<!-- Dev Toolbox with Animation -->
-<div align="center">
-  <h2>🎯 Dev Toolbox</h2>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&lines=Java+%7C+Python+%7C+React+%7C+ML+%7C+Security;Web+Dev+%7C+AI+%7C+Design+%7C+Cloud;EEG+Signal+Processing+%7C+Deep+Learning" alt="Typing SVG" /></a>
-</div>
-
-<!-- Trophy Section -->
-<div align="center">
-  <h2>🏆 GitHub Trophies</h2>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=SuryaAbyss&theme=darkhub&no-frame=true&row=1">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=SuryaAbyss&theme=flat&no-frame=true&row=1">
-    <img src="https://github-profile-trophy.vercel.app/?username=SuryaAbyss&theme=flat&no-frame=true&row=1" alt="GitHub Trophies">
-  </picture>
-</div>
-
-<!-- Visitor Counter -->
-<div align="center">
-  <h2>👀 Profile Views</h2>
-  <img src="https://komarev.com/ghpvc/?username=SuryaAbyss&label=Profile%20Views&color=0e75b6&style=for-the-badge&logo=eye" alt="Profile Views" />
-</div>
-
-<!-- Footer with Animation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer" alt="Footer">
-  </picture>
-</div>
-
-<!-- Snake Game Contribution Graph -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SuryaAbyss/SuryaAbyss/blob/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/SuryaAbyss/SuryaAbyss/blob/output/github-contribution-grid-snake.svg">
-    <img src="https://github.com/SuryaAbyss/SuryaAbyss/blob/output/github-contribution-grid-snake.svg" alt="Snake Game">
-  </picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b0082,100:0e75b6&height=120&section=footer&animation=twinkling" />
+  
+  <p> 
+    <img src="https://komarev.com/ghpvc/?username=SuryaAbyss&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
+    <a href="https://github.com/SuryaAbyss?tab=followers">
+      <img src="https://img.shields.io/github/followers/SuryaAbyss?label=Followers&style=social" alt="GitHub Followers" />
+    </a>
+  </p>
 </div>
