@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://suryaabyss.github.io/" target="_blank">
+  <a href="[https://suryaabyss.github.io/](https://main-portfolio-v1-inky.vercel.app/)" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:suryaprakash907y@gmail.com">
